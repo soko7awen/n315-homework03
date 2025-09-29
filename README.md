@@ -1,10 +1,10 @@
-# N315 - Homework 02
+# N315 - Homework 03
 
-## "Far Woods" homepage to showcase MVC
+## "Homestuck Daily" homepage to showcase routing and HTML injection for a SPA (Single-Page App) experience.
 
-[Web4 Link](https://in-info-web4.luddy.indianapolis.iu.edu/~hhamelin/Y4/FA25/N315/homework02)
+[Web4 Link](https://in-info-web4.luddy.indianapolis.iu.edu/~hhamelin/Y4/FA25/N315/homework03)
 
-Simple 4 page website to showcase the utlity of MVC.
+Simple 5 page website to showcase the utlity of routing and HTML injection. https://www.homestuckdaily.com/ used for reference.
 
 To develop for this site you do need to install scss.
 
