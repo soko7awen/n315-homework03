@@ -1,0 +1,11 @@
+@use "reset";
+@use "structure";
+@use "nav";
+
+
+body {
+    background-image: url("../img/background.gif");
+    background-size: cover;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
